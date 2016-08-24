@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Body
 ## Eph4:11-13 (Thu pm)
-## CECBC Retreat: Unite!
+### CECBC Retreat: Unite!
 
 >>>
 [one-body](http://one-body.seanho.com/)
