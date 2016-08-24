@@ -9,12 +9,10 @@
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## Unite! (Ephesians 4)
-1. <span class="hl1">Thu am</span>:
-  **One Calling** <span class="hl2">(v1-3)</span>
+1. Thu am: *One Calling* <span class="hl2">(v1-3)</span>
 2. <span class="hl1">Thu pm</span>:
   **One Body** <span class="hl2">(v11-13)</span>
-3. <span class="hl1">Sun am</span>:
-  **One Faith** <span class="hl2">(v14-16)</span>
+3. Sun am: *One Faith* <span class="hl2">(v14-16)</span>
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -22,16 +20,16 @@
 
 ---
 ## Ephesians 4:11-13 (NIV)
-So Christ himself gave the **apostles**, the **prophets**,
+So Christ himself gave the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors and teachers**,
 
-to equip his people for **works of service**,
+to equip his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
 
-until we all reach **unity in the faith**
-and in the **knowledge** of the Son of God
-and become **mature**, attaining to the whole measure
-of the **fullness** of Christ.
+until we all reach **unity in the faith** <br/>
+and in the **knowledge** of the Son of God <br/>
+and become **mature**, attaining to <br/>
+the whole measure of the **fullness** of Christ.
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
@@ -60,8 +58,8 @@ the **pastors and teachers**
 3. *Completion*: hope fulfilled in God <span class="hl2">(v13)</span>
 
 ---
-## Preparation: God-Empowered Works (v12)
-to **equip** his people for **works of service**,
+## Preparation: God-Empowered Works
+to **equip** his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
 
 ---
