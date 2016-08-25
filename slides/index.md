@@ -45,10 +45,12 @@ the whole measure of the **fullness** of Christ.
 So Christ himself gave <br/>
 the **apostles**, <br/>
 the **prophets**, <br/>
-the **evangelists**, <br/>
-the **pastors and teachers**
+the evangelists, <br/>
+the pastors and teachers
 
 >>>
++ prophet: forth-telling
++ evangelist: good news
 + apostle: stellw: sent, commissioned
   + focus on sender
   + vs pempw (send): action
@@ -68,6 +70,20 @@ Be **reconciled** to God.
   + **reconciliation** to God
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
+## Commission: God-Given Roles (v11)
+So Christ himself gave <br/>
+the *apostles*, <br/>
+the *prophets*, <br/>
+the *evangelists*, <br/>
+the **pastors and teachers**
+
+>>>
++ shepherd (only NT ref)
++ teacher: total person
++ And more! 1Cor12:28-31
+
+---
 <!-- .slide: class="Q" data-background="white" -->
 # How can I **participate** in sending, proclaiming, evangelising, shepherding, or teaching?
 
@@ -83,6 +99,18 @@ Be **reconciled** to God.
 ## Preparation: God-Empowered Works
 to **equip** his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
+
+>>>
++ service:
+  + personal servant (wait table)
+  + Gk: rule, don't serve
+  + Lk12:35-37 master serve slaves
+
+---
+## 2 Corinthians 13:10
+
+>>>
+authority / severity for building up
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
