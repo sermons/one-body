@@ -86,11 +86,19 @@ So Christ himself gave <br/>
 the *apostles*, <br/>
 the *prophets*, <br/>
 the *evangelists*, <br/>
-the **pastors and teachers**
+the **pastors** and **teachers**
 
 >>>
-+ shepherd (only NT ref)
-+ teacher: total person
++ 3x relate to God's **word**/message
++ 2x relate to God's **people**
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-aJvSX36kweg-lamb.jpg" -->
+... the **pastors** and **teachers**
+
+>>>
++ **shepherd** (only NT ref)
++ **teacher**: total person
 + And more! 1Cor12
   + ear: "not eye, don't belong"
   + head: "don't need feet"
