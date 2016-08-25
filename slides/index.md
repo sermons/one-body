@@ -86,6 +86,9 @@ the **pastors and teachers**
 <!-- .slide: class="Q" data-background="white" -->
 # How can I **participate** in sending, proclaiming, evangelising, shepherding, or teaching?
 
+>>>
++ How can I **appreciate** or **support** those who already do?
+
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Eph4:11-13 One Body
@@ -108,14 +111,14 @@ so that the body of Christ may be **built up**
 ---
 <!-- .slide: data-background-image="static/bg/pixabay-1238379-waitress.jpg" -->
 ## Luke 12:35-36 (NIV) (p.1/2)
-Be dressed ready for service <br/>
-and keep your lamps burning,
+Be dressed **ready for service** <br/>
+and keep your **lamps** burning,
 
-like servants waiting for their master <br/>
+like **servants** waiting for their **master** <br/>
 to return from a wedding banquet,
 
-so that when he comes and knocks <br/>
-they can immediately open the door for him.
+so that when he comes and **knocks** <br/>
+they can **immediately** open the door for him.
 
 >>>
 + then **reversal** of Gk values
@@ -123,14 +126,16 @@ they can immediately open the door for him.
 ---
 <!-- .slide: data-background-image="static/bg/pixabay-1238379-waitress.jpg" -->
 ## Luke 12:37 (NIV) (p.2/2)
-It will be good for those servants whose <br/>
-master finds them watching when he comes.
+It will be **good** for those servants whose <br/>
+master finds them **watching** when he comes.
 
 Truly I tell you, <br/>
-he will dress himself to serve, <br/>
-will have them recline at the table <br/>
-and will come and wait on them.
+he will **dress** himself to serve, <br/>
+will have them **recline** at the table <br/>
+and will come and **wait on them**.
 >>>
++ Master serves slaves!
+  + Jesus washing feet
 + 2Cor13:10 authority for building up, not tearing down
 
 ---
@@ -148,12 +153,28 @@ and will come and wait on them.
 <!-- .slide: data-background-image="static/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 ## Completion: God-Fulfilled Hope
 until we all reach **unity** <br/>
-in the **faith** <br/>
-and in the **knowledge** of the Son of God
+in **the faith** <br/>
+and in **the knowledge** of the Son of God
 
 and become **mature**, <br/>
 attaining to the whole measure <br/>
 of the **fullness** of Christ.
+
+>>>
++ **source** of unity:
+  + the **faith** (trust in promises)
+  + the (epi-) **knowledge**
+
+---
+<!-- .slide: data-background-image="static/bg/pixabay-253614-fire_cemetery.jpg" -->
+unity in **the faith** <br/>
+and in **the knowledge** of the Son of God
+
+>>>
++ JJ **worry** about house fire
++ we have **lived** through it
++ **experiential trust** in God's promises
+  + &Rarr; **maturity**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
