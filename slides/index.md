@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Body
-## Eph4:11-13 (Thu pm)
+## Eph 4:11-13 *(Thu pm)*
 ### CECBC Retreat: United
 
 >>>
@@ -16,7 +16,7 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q
+# How should a **healthy** church **grow**?
 
 ---
 ## Ephesians 4:11-13 (NIV)
