@@ -55,7 +55,7 @@ the pastors and teachers
 + what are **prophets**?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 ... the **prophets**, the **evangelists** ...
 
 >>>
@@ -93,7 +93,7 @@ the **pastors** and **teachers**
 + 2x relate to God's **people**
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-aJvSX36kweg-lamb.jpg" -->
+<!-- .slide: data-background-image="static/bg/static/bg/pixabay-19082-lamb.jpg" -->
 ... the **pastors** and **teachers**
 
 >>>
@@ -106,7 +106,7 @@ the **pastors** and **teachers**
   + honoured &rarr; rejoice
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: data-background-image="static/bg/static/bg/pixabay-619399-baby_feet.jpg" -->
 ## 1 Corinthians 12:27-28 (NIV) (p.1/2)
 Now you are the **body of Christ**, <br/>
 and each one of you is a **part** of it.
@@ -118,7 +118,7 @@ then gifts of **healing**, of **helping**, <br/>
 of **guidance**, and of different kinds of **tongues**.
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: data-background-image="static/bg/static/bg/pixabay-619399-baby_feet.jpg" -->
 ## 1 Corinthians 12:29-31 (NIV) (p.2/2)
 Are all **apostles**? Are all **prophets**? <br/>
 Are all **teachers**?  Do all work **miracles**? <br/>
@@ -238,6 +238,19 @@ and in **the knowledge** of the Son of God
 + we have **lived** through it
 + **experiential trust** in God's promises
   + &Rarr; **maturity**
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
+## 2 Corinthians 1:20 (NIV)
+For no matter how many **promises** God has made,
+they are “**Yes**” in Christ.
+
+And so through him the “**Amen**”
+is spoken by us to the **glory of God**.
+
+>>>
++ God has **not promised** no fire/loss/pain
++ Promised to be God of **comfort**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
