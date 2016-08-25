@@ -1,14 +1,14 @@
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Body
 ## Eph4:11-13 (Thu pm)
-### CECBC Retreat: Unite!
+### CECBC Retreat: United
 
 >>>
 [one-body](http://one-body.seanho.com/)
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Unite! (Ephesians 4)
+## United (Ephesians 4)
 1. Thu am: *One Calling* <span class="hl2">(v1-3)</span>
 2. <span class="hl1">Thu pm</span>:
   **One Body** <span class="hl2">(v11-13)</span>
