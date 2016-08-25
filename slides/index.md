@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 # One Body
 ## Eph 4:11-13 *(Thu pm)*
 ### CECBC Retreat: United
