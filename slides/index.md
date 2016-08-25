@@ -102,14 +102,36 @@ so that the body of Christ may be **built up**
 >>>
 + service:
   + personal servant (wait table)
-  + Gk: rule, don't serve
-  + Lk12:35-37 master serve slaves
+  + Gk: **rule**, don't serve
+  + NT: **aspire** to be a servant
 
 ---
-## 2 Corinthians 13:10
+<!-- .slide: data-background-image="static/bg/pixabay-1238379-waitress.jpg" -->
+## Luke 12:35-36 (NIV) (p.1/2)
+Be dressed ready for service <br/>
+and keep your lamps burning,
+
+like servants waiting for their master <br/>
+to return from a wedding banquet,
+
+so that when he comes and knocks <br/>
+they can immediately open the door for him.
 
 >>>
-authority / severity for building up
++ then **reversal** of Gk values
+
+---
+<!-- .slide: data-background-image="static/bg/pixabay-1238379-waitress.jpg" -->
+## Luke 12:37 (NIV) (p.2/2)
+It will be good for those servants whose <br/>
+master finds them watching when he comes.
+
+Truly I tell you, <br/>
+he will dress himself to serve, <br/>
+will have them recline at the table <br/>
+and will come and wait on them.
+>>>
++ 2Cor13:10 authority for building up, not tearing down
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
