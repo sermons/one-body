@@ -19,6 +19,7 @@
 # How should a **healthy** church **grow**?
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Ephesians 4:11-13 (NIV)
 So Christ himself gave the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors and teachers**,
@@ -39,12 +40,32 @@ the whole measure of the **fullness** of Christ.
 3. **Completion**: hope fulfilled in God <span class="hl2">(v13)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
 ## Commission: God-Given Roles (v11)
 So Christ himself gave <br/>
 the **apostles**, <br/>
 the **prophets**, <br/>
 the **evangelists**, <br/>
 the **pastors and teachers**
+
+>>>
++ apostle: stellw: sent, commissioned
+  + focus on sender
+  + vs pempw (send): action
+  + ambassador
+
+---
+<!-- .slide: data-background-image="static/bg/pixabay-1390463-pezibear-letter_roses.jpg" -->
+## 2 Corinthians 5:20 (NIV)
+We are therefore **Christ’s ambassadors**, <br/>
+as though God were making his **appeal** through us.
+
+We **implore** you on Christ’s behalf: <br/>
+Be **reconciled** to God.
+
+>>>
++ Our mission: carry God's **appeal**
+  + **reconciliation** to God
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -58,6 +79,7 @@ the **pastors and teachers**
 3. *Completion*: hope fulfilled in God <span class="hl2">(v13)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-VNjNtdu0yCw-kids_hug.jpg" -->
 ## Preparation: God-Empowered Works
 to **equip** his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
@@ -74,6 +96,7 @@ so that the body of Christ may be **built up**
 3. **Completion: hope fulfilled in God** <span class="hl2">(v13)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 ## Completion: God-Fulfilled Hope
 until we all reach **unity** <br/>
 in the **faith** <br/>
@@ -89,10 +112,22 @@ of the **fullness** of Christ.
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
-## Eph4:11-13 One Body
-1. **Commission**: roles given by God <span class="hl2">(v11)</span>
-2. **Preparation**: works empowered by God <span class="hl2">(v12)</span>
-3. **Completion**: hope fulfilled in God <span class="hl2">(v13)</span>
+## Ephesians 4:11-13 (NIV)
+So Christ himself gave the **apostles**, the **prophets**, <br/>
+the **evangelists**, the **pastors and teachers**,
+
+to equip his people for **works of service**, <br/>
+so that the body of Christ may be **built up**
+
+until we all reach **unity in the faith** <br/>
+and in the **knowledge** of the Son of God <br/>
+and become **mature**, attaining to <br/>
+the whole measure of the **fullness** of Christ.
+
+>>>
+1. **Commission**: roles given by God
+2. **Preparation**: works empowered by God
+3. **Completion**: hope fulfilled in God
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" class="empty" -->
