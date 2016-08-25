@@ -48,7 +48,7 @@ the **pastors and teachers**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q1
+# How can I **participate** in sending, proclaiming, evangelising, shepherding, or teaching?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
@@ -64,7 +64,7 @@ so that the body of Christ may be **built up**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q2
+# How can I **equip**, **serve**, or **build up** the body of Christ?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
@@ -85,7 +85,7 @@ of the **fullness** of Christ.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q3
+# What does an **ideal** church look like?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
