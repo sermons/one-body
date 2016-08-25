@@ -84,10 +84,11 @@ the **pastors and teachers**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# How can I **participate** in sending, proclaiming, evangelising, shepherding, or teaching?
+## **Who** are those who send, proclaim, evangelise, shepherd, or teach?
+## How can I **participate**?
 
 >>>
-+ How can I **appreciate** or **support** those who already do?
++ How can I **appreciate** or **support**?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
