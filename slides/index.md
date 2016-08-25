@@ -21,7 +21,7 @@
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Ephesians 4:11-13 (NIV)
 So Christ himself gave the **apostles**, the **prophets**, <br/>
-the **evangelists**, the **pastors and teachers**,
+the **evangelists**, the **pastors** and **teachers**,
 
 to equip his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
@@ -44,16 +44,27 @@ the whole measure of the **fullness** of Christ.
 So Christ himself gave <br/>
 the **apostles**, <br/>
 the **prophets**, <br/>
-the evangelists, <br/>
+the **evangelists**, <br/>
 the pastors and teachers
 
 >>>
-+ prophet: forth-telling
-+ evangelist: good news
-+ apostle: stellw: sent, commissioned
-  + focus on sender
-  + vs pempw (send): action
-  + ambassador
++ not the **person** but the **sender**
+  + no **authority** except from God
++ not "bc I'm your **father**"
+  + not bc **pastor**
++ what are **prophets**?
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
+... the **prophets**, the **evangelists** ...
+
+>>>
++ prophet: **forth**-telling
++ evangelist: **good news**
++ apostle: *στέλλω*: **sent**, commissioned
+  + focus on **sender**
+  + vs *πέμπω* (send): action
+  + **ambassador**
 
 ---
 <!-- .slide: data-background-image="static/bg/pixabay-1390463-pezibear-letter_roses.jpg" -->
@@ -169,7 +180,18 @@ will have them **recline** at the table <br/>
 and will come and **wait on them**.
 >>>
 + Master serves slaves!
-  + Jesus washing feet
+  + Jn13, Jesus washing feet
+
+---
+<!-- .slide: data-background-image="static/bg/Giovane-Washing_of_the_Feet.jpg" -->
+Truly I tell you, he will dress himself to **serve**
+
+>>>
++ set an **example** for us
++ no act of service too **small**
+  + aunties prep **food** for us
+  + having right **attitude** and
+  + encouraging **others** same
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -231,6 +253,13 @@ the whole measure of the **fullness** of Christ.
 1. **Commission**: roles given by God
 2. **Preparation**: works empowered by God
 3. **Completion**: hope fulfilled in God
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+## United (Ephesians 4)
+1. Thu am: *One Calling* <span class="hl2">(v1-3)</span>
+2. **Thu pm: One Body** <span class="hl2">(v11-13)</span>
+3. Sun am: *One Faith* <span class="hl2">(v14-16)</span>
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" class="empty" -->
