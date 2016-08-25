@@ -80,7 +80,36 @@ the **pastors and teachers**
 >>>
 + shepherd (only NT ref)
 + teacher: total person
-+ And more! 1Cor12:28-31
++ And more! 1Cor12
+  + ear: "not eye, don't belong"
+  + head: "don't need feet"
+  + suffer &rarr; suffer
+  + honoured &rarr; rejoice
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+## 1 Corinthians 12:27-28 (NIV) (p.1/2)
+Now you are the **body of Christ**, <br/>
+and each one of you is a **part** of it.
+
+And God has placed in the church <br/>
+first of all **apostles**, second **prophets**, <br/>
+third **teachers**, then **miracles**, <br/>
+then gifts of **healing**, of **helping**, <br/>
+of **guidance**, and of different kinds of **tongues**.
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+## 1 Corinthians 12:29-31 (NIV) (p.2/2)
+Are all **apostles**? Are all **prophets**? <br/>
+Are all **teachers**?  Do all work **miracles**? <br/>
+Do all have gifts of **healing**? <br/>
+Do all speak in **tongues** ? Do all **interpret**?
+
+Now eagerly desire the **greater gifts**.
+
+>>>
++ 1Cor13: love
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -88,7 +117,9 @@ the **pastors and teachers**
 ## How can I **participate**?
 
 >>>
++ Not necessarily **paid** or **titled**
 + How can I **appreciate** or **support**?
++ 2Cor13:10 authority for building up, not tearing down
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
@@ -104,6 +135,7 @@ to **equip** his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
 
 >>>
++ equip &rarr; serve &rarr; build
 + service:
   + personal servant (wait table)
   + Gk: **rule**, don't serve
@@ -122,7 +154,8 @@ so that when he comes and **knocks** <br/>
 they can **immediately** open the door for him.
 
 >>>
-+ then **reversal** of Gk values
++ not **impress** God with works
++ just **stand firm** waiting
 
 ---
 <!-- .slide: data-background-image="static/bg/pixabay-1238379-waitress.jpg" -->
@@ -137,7 +170,6 @@ and will come and **wait on them**.
 >>>
 + Master serves slaves!
   + Jesus washing feet
-+ 2Cor13:10 authority for building up, not tearing down
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
