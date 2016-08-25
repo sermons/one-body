@@ -93,7 +93,7 @@ the **pastors** and **teachers**
 + 2x relate to God's **people**
 
 ---
-<!-- .slide: data-background-image="static/bg/static/bg/pixabay-19082-lamb.jpg" -->
+<!-- .slide: data-background-image="static/bg/pixabay-19082-lamb.jpg" -->
 ... the **pastors** and **teachers**
 
 >>>
@@ -106,7 +106,7 @@ the **pastors** and **teachers**
   + honoured &rarr; rejoice
 
 ---
-<!-- .slide: data-background-image="static/bg/static/bg/pixabay-619399-baby_feet.jpg" -->
+<!-- .slide: data-background-image="static/bg/pixabay-619399-baby_feet.jpg" -->
 ## 1 Corinthians 12:27-28 (NIV) (p.1/2)
 Now you are the **body of Christ**, <br/>
 and each one of you is a **part** of it.
@@ -118,7 +118,7 @@ then gifts of **healing**, of **helping**, <br/>
 of **guidance**, and of different kinds of **tongues**.
 
 ---
-<!-- .slide: data-background-image="static/bg/static/bg/pixabay-619399-baby_feet.jpg" -->
+<!-- .slide: data-background-image="static/bg/pixabay-619399-baby_feet.jpg" -->
 ## 1 Corinthians 12:29-31 (NIV) (p.2/2)
 Are all **apostles**? Are all **prophets**? <br/>
 Are all **teachers**?  Do all work **miracles**? <br/>
