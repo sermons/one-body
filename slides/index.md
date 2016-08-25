@@ -34,9 +34,9 @@ the whole measure of the **fullness** of Christ.
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Eph4:11-13 One Body
-1. **Commission**: roles given by God <span class="hl2">(v11)</span>
-2. **Preparation**: works empowered by God <span class="hl2">(v12)</span>
-3. **Completion**: hope fulfilled in God <span class="hl2">(v13)</span>
+1. **Commission**: *roles* given by God <span class="hl2">(v11)</span>
+2. **Preparation**: *works* empowered by God <span class="hl2">(v12)</span>
+3. **Completion**: *hope* fulfilled in God <span class="hl2">(v13)</span>
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
@@ -186,9 +186,10 @@ Truly I tell you, <br/>
 he will **dress** himself to serve, <br/>
 will have them **recline** at the table <br/>
 and will come and **wait on them**.
+
 >>>
-+ Master serves slaves!
-  + Jn13, Jesus washing feet
++ **Master** serves slaves!
++ Jn13, Jesus washing feet
 
 ---
 <!-- .slide: data-background-image="static/bg/Giovane-Washing_of_the_Feet.jpg" -->
@@ -196,9 +197,23 @@ Truly I tell you, he will dress himself to **serve**
 
 >>>
 + set an **example** for us
++ **servant** not above Master
+  + If I don't serve, I'm putting myself **above** Jesus!
 + no act of service too **small**
-  + aunties prep **food** for us
-  + having right **attitude** and
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-VNjNtdu0yCw-kids_hug.jpg" -->
+## Matthew 10:42 (NIV)
+If anyone gives even a **cup of cold water** <br/>
+to one of these little ones who is **my disciple**, <br/>
+truly I tell you, <br/>
+that person will certainly not lose their **reward**.”
+
+>>>
++ aunties prep **food** for us
+  + not bc we are **nice** to them
+  + bc we meet in **Jesus' name**
++ having right **attitude** and
   + encouraging **others** same
 
 ---
@@ -242,10 +257,10 @@ and in **the knowledge** of the Son of God
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 ## 2 Corinthians 1:20 (NIV)
-For no matter how many **promises** God has made,
+For no matter how many **promises** God has made, <br/>
 they are “**Yes**” in Christ.
 
-And so through him the “**Amen**”
+And so through him the “**Amen**” <br/>
 is spoken by us to the **glory of God**.
 
 >>>
