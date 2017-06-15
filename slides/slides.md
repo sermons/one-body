@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 # One Body
 ## Eph 4:11-13 *(Thu pm)*
 ### CECBC Retreat: United
@@ -7,7 +7,7 @@
 [one-body](http://one-body.seanho.com/)
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## United (Ephesians 4)
 1. Thu am: *One Calling* <span class="hl2">(v1-3)</span>
 2. **Thu pm: One Body** <span class="hl2">(v11-13)</span>
@@ -18,7 +18,7 @@
 # How should a **healthy** church **grow**?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Ephesians 4:11-13 (NIV)
 So Christ himself gave the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors** and **teachers**,
@@ -32,14 +32,14 @@ and become **mature**, attaining to <br/>
 the whole measure of the **fullness** of Christ.
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Eph4:11-13 One Body
 1. **Commission**: *roles* given by God <span class="hl2">(v11)</span>
 2. **Preparation**: *works* empowered by God <span class="hl2">(v12)</span>
 3. **Completion**: *hope* fulfilled in God <span class="hl2">(v13)</span>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
 ## Commission: God-Given Roles (v11)
 So Christ himself gave <br/>
 the **apostles**, <br/>
@@ -55,7 +55,7 @@ the pastors and teachers
 + what are **prophets**?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 ... the **prophets**, the **evangelists** ...
 
 >>>
@@ -67,7 +67,7 @@ the pastors and teachers
   + **ambassador**
 
 ---
-<!-- .slide: data-background-image="static/bg/pixabay-1390463-pezibear-letter_roses.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-1390463-pezibear-letter_roses.jpg" -->
 ## 2 Corinthians 5:20 (NIV)
 We are therefore **Christ’s ambassadors**, <br/>
 as though God were making his **appeal** through us.
@@ -80,7 +80,7 @@ Be **reconciled** to God.
   + **reconciliation** to God
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
 ## Commission: God-Given Roles (v11)
 So Christ himself gave <br/>
 the *apostles*, <br/>
@@ -93,7 +93,7 @@ the **pastors** and **teachers**
 + 2x relate to God's **people**
 
 ---
-<!-- .slide: data-background-image="static/bg/pixabay-19082-lamb.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-19082-lamb.jpg" -->
 ... the **pastors** and **teachers**
 
 >>>
@@ -106,7 +106,7 @@ the **pastors** and **teachers**
   + honoured &rarr; rejoice
 
 ---
-<!-- .slide: data-background-image="static/bg/pixabay-619399-baby_feet.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-619399-baby_feet.jpg" -->
 ## 1 Corinthians 12:27-28 (NIV) (p.1/2)
 Now you are the **body of Christ**, <br/>
 and each one of you is a **part** of it.
@@ -118,7 +118,7 @@ then gifts of **healing**, of **helping**, <br/>
 of **guidance**, and of different kinds of **tongues**.
 
 ---
-<!-- .slide: data-background-image="static/bg/pixabay-619399-baby_feet.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-619399-baby_feet.jpg" -->
 ## 1 Corinthians 12:29-31 (NIV) (p.2/2)
 Are all **apostles**? Are all **prophets**? <br/>
 Are all **teachers**?  Do all work **miracles**? <br/>
@@ -141,14 +141,14 @@ Now eagerly desire the **greater gifts**.
 + 2Cor13:10 authority for building up, not tearing down
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Eph4:11-13 One Body
 1. *Commission*: roles given by God <span class="hl2">(v11)</span>
 2. **Preparation: works empowered by God** <span class="hl2">(v12)</span>
 3. *Completion*: hope fulfilled in God <span class="hl2">(v13)</span>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-VNjNtdu0yCw-kids_hug.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VNjNtdu0yCw-kids_hug.jpg" -->
 ## Preparation: God-Empowered Works
 to **equip** his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
@@ -161,7 +161,7 @@ so that the body of Christ may be **built up**
   + NT: **aspire** to be a servant
 
 ---
-<!-- .slide: data-background-image="static/bg/pixabay-1238379-waitress.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-1238379-waitress.jpg" -->
 ## Luke 12:35-36 (NIV) (p.1/2)
 Be dressed **ready for service** <br/>
 and keep your **lamps** burning,
@@ -177,7 +177,7 @@ they can **immediately** open the door for him.
 + just **stand firm** waiting
 
 ---
-<!-- .slide: data-background-image="static/bg/pixabay-1238379-waitress.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-1238379-waitress.jpg" -->
 ## Luke 12:37 (NIV) (p.2/2)
 It will be **good** for those servants whose <br/>
 master finds them **watching** when he comes.
@@ -192,7 +192,7 @@ and will come and **wait on them**.
 + Jn13, Jesus washing feet
 
 ---
-<!-- .slide: data-background-image="static/bg/Giovane-Washing_of_the_Feet.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Giovane-Washing_of_the_Feet.jpg" -->
 Truly I tell you, he will dress himself to **serve**
 
 >>>
@@ -202,7 +202,7 @@ Truly I tell you, he will dress himself to **serve**
 + no act of service too **small**
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-VNjNtdu0yCw-kids_hug.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VNjNtdu0yCw-kids_hug.jpg" -->
 ## Matthew 10:42 (NIV)
 If anyone gives even a **cup of cold water** <br/>
 to one of these little ones who is **my disciple**, <br/>
@@ -221,14 +221,14 @@ that person will certainly not lose their **reward**.”
 # How can I **equip**, **serve**, or **build up** the body of Christ?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Eph4:11-13 One Body
 1. *Commission*: roles given by God <span class="hl2">(v11)</span>
 2. *Preparation*: works empowered by God <span class="hl2">(v12)</span>
 3. **Completion: hope fulfilled in God** <span class="hl2">(v13)</span>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 ## Completion: God-Fulfilled Hope
 until we all reach **unity** <br/>
 in **the faith** <br/>
@@ -244,7 +244,7 @@ of the **fullness** of Christ.
   + the (epi-) **knowledge**
 
 ---
-<!-- .slide: data-background-image="static/bg/pixabay-253614-fire_cemetery.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-253614-fire_cemetery.jpg" -->
 unity in **the faith** <br/>
 and in **the knowledge** of the Son of God
 
@@ -255,7 +255,7 @@ and in **the knowledge** of the Son of God
   + &Rarr; **maturity**
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 ## 2 Corinthians 1:20 (NIV)
 For no matter how many **promises** God has made, <br/>
 they are “**Yes**” in Christ.
@@ -272,7 +272,7 @@ is spoken by us to the **glory of God**.
 # What does an **ideal** church look like?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Ephesians 4:11-13 (NIV)
 So Christ himself gave the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors and teachers**,
@@ -291,11 +291,11 @@ the whole measure of the **fullness** of Christ.
 3. **Completion**: hope fulfilled in God
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## United (Ephesians 4)
 1. Thu am: *One Calling* <span class="hl2">(v1-3)</span>
 2. **Thu pm: One Body** <span class="hl2">(v11-13)</span>
 3. Sun am: *One Faith* <span class="hl2">(v14-16)</span>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" class="empty" -->
