@@ -1,17 +1,17 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 # One Body
-## Eph 4:11-13 *(Thu pm)*
-### CECBC Retreat: United
+## Ephesians 4:11-13
+### Part 2 of 3
 
 >>>
 [one-body](http://one-body.seanho.com/)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## United (Ephesians 4)
-1. Thu am: *One Calling* <span class="hl2">(v1-3)</span>
-2. **Thu pm: One Body** <span class="hl2">(v11-13)</span>
-3. Sun am: *One Faith* <span class="hl2">(v14-16)</span>
+## Ephesians 4
+1. *One Calling* <span class="hl2">(v1-3)</span>
+2. **One Body** <span class="hl2">(v11-13)</span>
+3. *One Faith* <span class="hl2">(v14-16)</span>
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
