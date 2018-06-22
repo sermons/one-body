@@ -291,11 +291,4 @@ the whole measure of the **fullness** of Christ.
 3. **Completion**: hope fulfilled in God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## United (Ephesians 4)
-1. Thu am: *One Calling* <span class="hl2">(v1-3)</span>
-2. **Thu pm: One Body** <span class="hl2">(v11-13)</span>
-3. Sun am: *One Faith* <span class="hl2">(v14-16)</span>
-
----
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" class="empty" -->
