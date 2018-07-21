@@ -1,106 +1,331 @@
-{
-  "name": "@sermons/one-body",
-  "repository": "sermons/one-body",
-  "description": "Eph 4:11-13 One Body",
-  "keywords": [
-    "sermon",
-    "ephesians",
-    "united",
-    "kingdom"
-  ],
-  "version": "1.6.24",
-  "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
-  "config": {
-    "pretty_url": "one-body.seanho.com",
-    "cname": "one-body.seanho.com",
-    "multiplex": {
-      "url": "https://mp.seanho.com/",
-      "id": "1a26329ed3f61d34"
-    },
-    "git": {
-      "name": "Sean Ho",
-      "email": "travis@seanho.com"
-    },
-    "history": [
-      {
-        "venue": "Pacific Grace MB Church",
-        "city": "South Vancouver",
-        "date": "2018-07-21",
-        "duration": 0
-      },
-      {
-        "venue": "Evangelical Chinese Bible Church",
-        "city": "Coquitlam",
-        "date": "2016-08-25",
-        "duration": 0
-      }
-    ],
-    "slides": [
-      "slides/slides.md"
-    ],
-    "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0",
-    "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
-    "css": [
-      {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
-        "integrity": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
-      },
-      {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.min.css",
-        "integrity": "sha256-ol2N5Xr80jdDqxK0lte3orKGb9Ja3sOnpAUV7TTADmg="
-      },
-      {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-dark.min.css",
-        "integrity": "sha256-akwTLZec/XAFvgYgVH1T5/369lhA2Efr22xzCNl1nHs="
-      }
-    ],
-    "js": [
-      {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js",
-        "integrity": "sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw="
-      },
-      {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js",
-        "integrity": "sha256-+09kLhwACKXFPDvqo4xMMvi4+uXFsRZ2uYGbeN1U8sI="
-      },
-      {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.slim.js",
-        "integrity": "sha256-0YA7ixx4+I4GrLichcjWSQHIUSQiI8ojTDqsK7AZ5zU="
-      },
-      {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js",
-        "integrity": "sha256-ixSKHrWAL2k0mqVSRju9+to2/uZSEK9+kJRfdNBolG8="
-      },
-      {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/marked.js",
-        "integrity": "sha256-c6mIBJmjwIEMzRFz4hJTWcWDvcGnqJUicbkA6bsQoYE="
-      },
-      {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/markdown.min.js",
-        "integrity": "sha256-k07Q1HjAu3jUhg23V+WcK14cqHXbgRpIdYHjfLOkS+c="
-      }
-    ],
-    "plugins": [
-      "math/math.min.js",
-      "highlight/highlight.min.js"
-    ]
-  },
-  "license": "CC-BY-SA-4.0",
-  "private": true,
-  "devDependencies": {
-    "reveal.js": "^3.6.0",
-    "grunt": "^1.0.3",
-    "load-grunt-tasks": "^4.0.0",
-    "grunt-contrib-connect": "^1.0.2",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-sass": "^2.1.0",
-    "grunt-exec": "^3.0.0",
-    "qrcode": "^1.2.0",
-    "decktape": "^2.8.4"
-  },
-  "scripts": {
-    "postinstall": "grunt install",
-    "test": "grunt test",
-    "dist": "grunt dist"
-  }
-}
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> id="title" -->
+# One **Body**
+## (2) Ephesians 4:11-13
+### Choose His *Kingdom*, <br> Journey *Together*
+
+---
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
+## Choose His Kingdom, Journey Together
+1. One *Calling* [(v1-3)](# ref")
+2. **One Body** [(v11-13)](# ref")
+3. One *Faith* [(v14-16)](# ref")
+
+---
+<!-- .slide: data-background="white" -->
+# How should a **healthy** church **grow**?
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+[11](# "ref")
+So Christ himself gave <br>
+the **apostles**, the **prophets**, <br/>
+the **evangelists**, the **pastors** and **teachers**,
+
+[12](# "ref")
+to equip his people for **works of service**, <br/>
+so that the body of Christ may be **built up**
+
+[Ephesians 4:11-12 (NIV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+[13](# "ref")
+until we all reach **unity in the faith** <br/>
+and in the **knowledge** of the Son of God
+
+and become **mature**, attaining to <br/>
+the whole measure of the **fullness** of Christ.
+
+[Ephesians 4:13 (NIV) (p.2/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+## One Body [(Eph4)](# "ref")
+1. **Commission**: *roles* given by God [(v11)](# "ref")
+2. **Preparation**: *works* empowered by God [(v12)](# "ref")
+3. **Completion**: *hope* fulfilled in God [(v13)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
+So Christ himself gave <br/>
+the **apostles**, <br/>
+the **prophets**, <br/>
+the **evangelists**, <br/>
+the pastors and teachers
+
+[Ephesians 4:11 (NIV)](# "ref")
+
+>>>
++ not the **person** but the **sender**
+  + no **authority** except from God
++ not "bc I'm your **father**"
+  + not bc **pastor**
++ what are **prophets**?
+
+---
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
+... the **prophets**, the **evangelists** ...
+
+[Ephesians 4:11 (NIV)](# "ref")
+
+>>>
++ prophet: **forth**-telling
++ evangelist: **good news**
++ apostle: *στέλλω*: **sent**, commissioned
+  + focus on **sender**
+  + vs *πέμπω* (send): action
+  + **ambassador**
+
+---
+<!-- .slide: <%= bg("pixabay-1390463-pezibear-letter_roses.jpg") %> -->
+We are therefore **Christ’s ambassadors**, <br/>
+as though God were making his **appeal** through us.
+
+We **implore** you on Christ’s behalf: <br/>
+Be **reconciled** to God.
+
+[2 Corinthians 5:20 (NIV)](# "ref")
+
+>>>
++ Our mission: carry God's **appeal**
+  + **reconciliation** to God
+
+---
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
+So Christ himself gave <br/>
+the *apostles*, <br/>
+the *prophets*, <br/>
+the *evangelists*, <br/>
+the **pastors** and **teachers**
+
+[Ephesians 4:11 (NIV)](# "ref")
+
+>>>
++ 3x relate to God's **word**/message
++ 2x relate to God's **people**
+
+---
+<!-- .slide: <%= bg("pixabay-19082-lamb.jpg") %> -->
+... the **pastors** and **teachers**
+
+[Ephesians 4:11 (NIV)](# "ref")
+
+>>>
++ **shepherd** (only NT ref)
++ **teacher**: total person
++ And more! 1Cor12
+  + ear: "not eye, don't belong"
+  + head: "don't need feet"
+  + suffer &rarr; suffer
+  + honoured &rarr; rejoice
+
+---
+<!-- .slide: <%= bg("pixabay-619399-baby_feet.jpg") %> -->
+Now you are the **body of Christ**, <br/>
+and each one of you is a **part** of it.
+
+And God has placed in the church <br/>
+first of all **apostles**, second **prophets**, <br/>
+third **teachers**, then **miracles**, <br/>
+then gifts of **healing**, of **helping**, <br/>
+of **guidance**, and of different kinds of **tongues**.
+
+[1 Corinthians 12:27-28 (NIV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("pixabay-619399-baby_feet.jpg") %> -->
+Are all **apostles**? Are all **prophets**? <br/>
+Are all **teachers**?  Do all work **miracles**? <br/>
+Do all have gifts of **healing**? <br/>
+Do all speak in **tongues** ? Do all **interpret**?
+
+Now eagerly desire the **greater gifts**.
+
+[1 Corinthians 12:29-31 (NIV) (p.2/2)](# "ref")
+
+>>>
++ 1Cor13: love
+
+---
+<!-- .slide: data-background="white" -->
+## **Who** are those who send, proclaim, evangelise, shepherd, or teach?
+## How can I **participate**?
+
+>>>
++ Not necessarily **paid** or **titled**
++ How can I **appreciate** or **support**?
++ 2Cor13:10 authority for building up, not tearing down
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+## One Body [(Eph4)](# "ref")
+1. *Commission*: roles given by God [(v11)](# "ref")
+2. **Preparation: works empowered by God** [(v12)](# "ref")
+3. *Completion*: hope fulfilled in God [(v13)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
+to **equip** his people for **works of service**, <br/>
+so that the body of Christ may be **built up**
+
+[Ephesians 4:12 (NIV)](# "ref")
+
+>>>
++ equip &rarr; serve &rarr; build
++ service:
+  + personal servant (wait table)
+  + Gk: **rule**, don't serve
+  + NT: **aspire** to be a servant
++ example? 
+
+---
+<!-- .slide: <%= bg("pixabay-1238379-waitress.jpg") %> -->
+Be dressed **ready for service** <br/>
+and keep your **lamps** burning,
+
+like **servants** waiting for their **master** <br/>
+to return from a wedding banquet,
+
+so that when he comes and **knocks** <br/>
+they can **immediately** open the door for him.
+
+[Luke 12:35-36 (NIV) (p.1/2)](# "ref")
+
+>>>
++ not **impress** God with works
++ just **stand firm** waiting
+
+---
+<!-- .slide: <%= bg("pixabay-1238379-waitress.jpg") %> -->
+It will be **good** for those servants whose <br/>
+master finds them **watching** when he comes.
+
+Truly I tell you, <br/>
+he will **dress** himself to serve, <br/>
+will have them **recline** at the table <br/>
+and will come and **wait on them**.
+
+[Luke 12:37 (NIV) (p.2/2)](# "ref")
+
+>>>
++ **Master** serves slaves!
++ Jn13, Jesus washing feet
+
+---
+<!-- .slide: <%= bg("Giovane-Washing_of_the_Feet.jpg") %> -->
+Truly I tell you, he will dress himself to **serve**
+
+[Luke 12:37 (NIV)](# "ref")
+
+>>>
++ set an **example** for us
++ **servant** not above Master
+  + If I don't serve, I'm putting myself **above** Jesus!
++ no act of service too **small**
+
+---
+<!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
+If anyone gives even a **cup of cold water** <br/>
+to one of these little ones who is **my disciple**, <br/>
+truly I tell you, <br/>
+that person will certainly not lose their **reward**.”
+
+[Matthew 10:42 (NIV)](# "ref")
+
+>>>
++ aunties prep **food** for us
+  + not bc we are **nice** to them
+  + bc we meet in **Jesus' name**
++ having right **attitude** and
+  + encouraging **others** same
+
+---
+<!-- .slide: data-background="white" -->
+# How can I **equip**, **serve**, or **build up** the body of Christ?
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+## One Body [(Eph4)](# "ref")
+1. *Commission*: roles given by God [(v11)](# "ref")
+2. *Preparation*: works empowered by God [(v12)](# "ref")
+3. **Completion: hope fulfilled in God** [(v13)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
+until we all reach **unity** <br/>
+in **the faith** <br/>
+and in **the knowledge** of the Son of God
+
+and become **mature**, <br/>
+attaining to the whole measure <br/>
+of the **fullness** of Christ.
+
+[Ephesians 4:13 (NIV)](# "ref")
+
+>>>
++ Completion: God-Fulfilled Hope
++ **source** of unity:
+  + the **faith** (trust in promises)
+  + the (epi-) **knowledge**
+
+---
+<!-- .slide: <%= bg("pixabay-253614-fire_cemetery.jpg") %> -->
+unity in **the faith** <br/>
+and in **the knowledge** of the Son of God
+
+[Ephesians 4:13 (NIV)](# "ref")
+
+>>>
++ JJ **worry** about house fire
++ we have **lived** through it
++ **experiential trust** in God's promises
+  + &Rarr; **maturity**
+
+---
+<!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
+For no matter how many **promises** God has made, <br/>
+they are “**Yes**” in Christ.
+
+And so through him the “**Amen**” <br/>
+is spoken by us to the **glory of God**.
+
+[2 Corinthians 1:20 (NIV)](# "ref")
+
+>>>
++ God has **not promised** no fire/loss/pain
++ Promised to be God of **comfort**
+
+---
+<!-- .slide: data-background="white" -->
+# What does an **ideal** church look like?
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+So Christ himself gave <br>
+the **apostles**, the **prophets**, <br/>
+the **evangelists**, the **pastors and teachers**,
+
+to equip his people for **works of service**, <br/>
+so that the body of Christ may be **built up**
+
+until we all reach **unity in the faith** <br/>
+and in the **knowledge** of the Son of God <br/>
+and become **mature**, attaining to <br/>
+the whole measure of the **fullness** of Christ.
+
+[Ephesians 4:11-13 (NIV)](# "ref")
+
+>>>
+1. **Commission**: roles given by God
+2. **Preparation**: works empowered by God
+3. **Completion**: hope fulfilled in God
+
+---
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
+## Choose His Kingdom, Journey Together
+1. One *Calling* [(v1-3)](# ref")
+2. **One Body** [(v11-13)](# ref")
+3. One *Faith* [(v14-16)](# ref")
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="empty" -->
