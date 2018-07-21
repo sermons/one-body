@@ -16,25 +16,34 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
-So Christ himself gave the **apostles**, the **prophets**, <br/>
+[11](# "ref")
+So Christ himself gave <br>
+the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors** and **teachers**,
 
+[12](# "ref")
 to equip his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
 
+[Ephesians 4:11-12 (NIV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+[13](# "ref")
 until we all reach **unity in the faith** <br/>
-and in the **knowledge** of the Son of God <br/>
+and in the **knowledge** of the Son of God
+
 and become **mature**, attaining to <br/>
 the whole measure of the **fullness** of Christ.
 
-[Ephesians 4:11-13 (NIV)](# "ref")
+[Ephesians 4:13 (NIV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
 ## One Body [(Eph4)](# "ref")
 1. **Commission**: *roles* given by God [(v11)](# "ref")
-2. **Preparation**: *works* empowered by God [(v12)](# "ref")
-3. **Completion**: *hope* fulfilled in God [(v13)](# "ref")
+2. **Preparation**: *works* <br> empowered by God [(v12)](# "ref")
+3. **Completion**: *hope* <br> fulfilled in God [(v13)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
@@ -70,7 +79,8 @@ the pastors and teachers
 ---
 <!-- .slide: <%= bg("pixabay-1390463-pezibear-letter_roses.jpg") %> -->
 We are therefore **Christ’s ambassadors**, <br/>
-as though God were making his **appeal** through us.
+as though God were making his **appeal** <br>
+through us.
 
 We **implore** you on Christ’s behalf: <br/>
 Be **reconciled** to God.
@@ -123,6 +133,9 @@ of **guidance**, and of different kinds of **tongues**.
 
 [1 Corinthians 12:27-28 (NIV) (p.1/2)](# "ref")
 
+>>>
++ God-given roles
+
 ---
 <!-- .slide: <%= bg("pixabay-619399-baby_feet.jpg") %> -->
 Are all **apostles**? Are all **prophets**? <br/>
@@ -151,8 +164,8 @@ Now eagerly desire the **greater gifts**.
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
 ## One Body [(Eph4)](# "ref")
 1. *Commission*: roles given by God [(v11)](# "ref")
-2. **Preparation: works empowered by God** [(v12)](# "ref")
-3. *Completion*: hope fulfilled in God [(v13)](# "ref")
+2. **Preparation: works <br> empowered by God** [(v12)](# "ref")
+3. *Completion*: hope <br> fulfilled in God [(v13)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
@@ -212,6 +225,8 @@ Truly I tell you, he will dress himself to **serve**
 + set an **example** for us
 + **servant** not above Master
   + If I don't serve, I'm putting myself **above** Jesus!
++ not **own** capabilities but
+  + **God**-empowered works of service
 + no act of service too **small**
 
 ---
@@ -219,7 +234,7 @@ Truly I tell you, he will dress himself to **serve**
 If anyone gives even a **cup of cold water** <br/>
 to one of these little ones who is **my disciple**, <br/>
 truly I tell you, <br/>
-that person will certainly not lose their **reward**.”
+that person will certainly not lose their **reward**
 
 [Matthew 10:42 (NIV)](# "ref")
 
@@ -238,8 +253,8 @@ that person will certainly not lose their **reward**.”
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
 ## One Body [(Eph4)](# "ref")
 1. *Commission*: roles given by God [(v11)](# "ref")
-2. *Preparation*: works empowered by God [(v12)](# "ref")
-3. **Completion: hope fulfilled in God** [(v13)](# "ref")
+2. *Preparation*: works <br> empowered by God [(v12)](# "ref")
+3. **Completion: hope <br> fulfilled in God** [(v13)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
@@ -274,7 +289,7 @@ and in **the knowledge** of the Son of God
 
 ---
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
-For no matter how many **promises** God has made, <br/>
+For no matter how many **promises** <br> God has made, <br/>
 they are “**Yes**” in Christ.
 
 And so through him the “**Amen**” <br/>
@@ -292,7 +307,8 @@ is spoken by us to the **glory of God**.
 
 ---
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
-So Christ himself gave the **apostles**, the **prophets**, <br/>
+So Christ himself gave <br>
+the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors and teachers**,
 
 to equip his people for **works of service**, <br/>
