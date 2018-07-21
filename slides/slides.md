@@ -1,13 +1,10 @@
-<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> id="title" -->
 # One **Body**
 ## (2) Ephesians 4:11-13
 ### Choose His *Kingdom*, <br> Journey *Together*
 
->>>
-[one-body](http://one-body.seanho.com/)
-
 ---
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## Choose His Kingdom, Journey Together
 1. One *Calling* [(v1-3)](# ref")
 2. **One Body** [(v11-13)](# ref")
@@ -18,7 +15,7 @@
 # How should a **healthy** church **grow**?
 
 ---
-<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 So Christ himself gave the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors** and **teachers**,
 
@@ -33,20 +30,21 @@ the whole measure of the **fullness** of Christ.
 [Ephesians 4:11-13 (NIV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
-## Eph4:11-13 One Body
-1. **Commission**: *roles* given by God <span class="hl2">(v11)</span>
-2. **Preparation**: *works* empowered by God <span class="hl2">(v12)</span>
-3. **Completion**: *hope* fulfilled in God <span class="hl2">(v13)</span>
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+## One Body [(Eph4)](# "ref")
+1. **Commission**: *roles* given by God [(v11)](# "ref")
+2. **Preparation**: *works* empowered by God [(v12)](# "ref")
+3. **Completion**: *hope* fulfilled in God [(v13)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
-## Commission: God-Given Roles (v11)
 So Christ himself gave <br/>
 the **apostles**, <br/>
 the **prophets**, <br/>
 the **evangelists**, <br/>
 the pastors and teachers
+
+[Ephesians 4:11 (NIV)](# "ref")
 
 >>>
 + not the **person** but the **sender**
@@ -59,6 +57,8 @@ the pastors and teachers
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 ... the **prophets**, the **evangelists** ...
 
+[Ephesians 4:11 (NIV)](# "ref")
+
 >>>
 + prophet: **forth**-telling
 + evangelist: **good news**
@@ -69,12 +69,13 @@ the pastors and teachers
 
 ---
 <!-- .slide: <%= bg("pixabay-1390463-pezibear-letter_roses.jpg") %> -->
-## 2 Corinthians 5:20 (NIV)
 We are therefore **Christ’s ambassadors**, <br/>
 as though God were making his **appeal** through us.
 
 We **implore** you on Christ’s behalf: <br/>
 Be **reconciled** to God.
+
+[2 Corinthians 5:20 (NIV)](# "ref")
 
 >>>
 + Our mission: carry God's **appeal**
@@ -82,12 +83,13 @@ Be **reconciled** to God.
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
-## Commission: God-Given Roles (v11)
 So Christ himself gave <br/>
 the *apostles*, <br/>
 the *prophets*, <br/>
 the *evangelists*, <br/>
 the **pastors** and **teachers**
+
+[Ephesians 4:11 (NIV)](# "ref")
 
 >>>
 + 3x relate to God's **word**/message
@@ -96,6 +98,8 @@ the **pastors** and **teachers**
 ---
 <!-- .slide: <%= bg("pixabay-19082-lamb.jpg") %> -->
 ... the **pastors** and **teachers**
+
+[Ephesians 4:11 (NIV)](# "ref")
 
 >>>
 + **shepherd** (only NT ref)
@@ -108,7 +112,6 @@ the **pastors** and **teachers**
 
 ---
 <!-- .slide: <%= bg("pixabay-619399-baby_feet.jpg") %> -->
-## 1 Corinthians 12:27-28 (NIV) (p.1/2)
 Now you are the **body of Christ**, <br/>
 and each one of you is a **part** of it.
 
@@ -118,15 +121,18 @@ third **teachers**, then **miracles**, <br/>
 then gifts of **healing**, of **helping**, <br/>
 of **guidance**, and of different kinds of **tongues**.
 
+[1 Corinthians 12:27-28 (NIV) (p.1/2)](# "ref")
+
 ---
 <!-- .slide: <%= bg("pixabay-619399-baby_feet.jpg") %> -->
-## 1 Corinthians 12:29-31 (NIV) (p.2/2)
 Are all **apostles**? Are all **prophets**? <br/>
 Are all **teachers**?  Do all work **miracles**? <br/>
 Do all have gifts of **healing**? <br/>
 Do all speak in **tongues** ? Do all **interpret**?
 
 Now eagerly desire the **greater gifts**.
+
+[1 Corinthians 12:29-31 (NIV) (p.2/2)](# "ref")
 
 >>>
 + 1Cor13: love
@@ -142,17 +148,18 @@ Now eagerly desire the **greater gifts**.
 + 2Cor13:10 authority for building up, not tearing down
 
 ---
-<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
-## Eph4:11-13 One Body
-1. *Commission*: roles given by God <span class="hl2">(v11)</span>
-2. **Preparation: works empowered by God** <span class="hl2">(v12)</span>
-3. *Completion*: hope fulfilled in God <span class="hl2">(v13)</span>
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+## One Body [(Eph4)](# "ref")
+1. *Commission*: roles given by God [(v11)](# "ref")
+2. **Preparation: works empowered by God** [(v12)](# "ref")
+3. *Completion*: hope fulfilled in God [(v13)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
-## Preparation: God-Empowered Works
 to **equip** his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
+
+[Ephesians 4:12 (NIV)](# "ref")
 
 >>>
 + equip &rarr; serve &rarr; build
@@ -160,10 +167,10 @@ so that the body of Christ may be **built up**
   + personal servant (wait table)
   + Gk: **rule**, don't serve
   + NT: **aspire** to be a servant
++ example? 
 
 ---
 <!-- .slide: <%= bg("pixabay-1238379-waitress.jpg") %> -->
-## Luke 12:35-36 (NIV) (p.1/2)
 Be dressed **ready for service** <br/>
 and keep your **lamps** burning,
 
@@ -173,13 +180,14 @@ to return from a wedding banquet,
 so that when he comes and **knocks** <br/>
 they can **immediately** open the door for him.
 
+[Luke 12:35-36 (NIV) (p.1/2)](# "ref")
+
 >>>
 + not **impress** God with works
 + just **stand firm** waiting
 
 ---
 <!-- .slide: <%= bg("pixabay-1238379-waitress.jpg") %> -->
-## Luke 12:37 (NIV) (p.2/2)
 It will be **good** for those servants whose <br/>
 master finds them **watching** when he comes.
 
@@ -187,6 +195,8 @@ Truly I tell you, <br/>
 he will **dress** himself to serve, <br/>
 will have them **recline** at the table <br/>
 and will come and **wait on them**.
+
+[Luke 12:37 (NIV) (p.2/2)](# "ref")
 
 >>>
 + **Master** serves slaves!
@@ -196,6 +206,8 @@ and will come and **wait on them**.
 <!-- .slide: <%= bg("Giovane-Washing_of_the_Feet.jpg") %> -->
 Truly I tell you, he will dress himself to **serve**
 
+[Luke 12:37 (NIV)](# "ref")
+
 >>>
 + set an **example** for us
 + **servant** not above Master
@@ -204,11 +216,12 @@ Truly I tell you, he will dress himself to **serve**
 
 ---
 <!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
-## Matthew 10:42 (NIV)
 If anyone gives even a **cup of cold water** <br/>
 to one of these little ones who is **my disciple**, <br/>
 truly I tell you, <br/>
 that person will certainly not lose their **reward**.”
+
+[Matthew 10:42 (NIV)](# "ref")
 
 >>>
 + aunties prep **food** for us
@@ -222,15 +235,14 @@ that person will certainly not lose their **reward**.”
 # How can I **equip**, **serve**, or **build up** the body of Christ?
 
 ---
-<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
-## Eph4:11-13 One Body
-1. *Commission*: roles given by God <span class="hl2">(v11)</span>
-2. *Preparation*: works empowered by God <span class="hl2">(v12)</span>
-3. **Completion: hope fulfilled in God** <span class="hl2">(v13)</span>
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+## One Body [(Eph4)](# "ref")
+1. *Commission*: roles given by God [(v11)](# "ref")
+2. *Preparation*: works empowered by God [(v12)](# "ref")
+3. **Completion: hope fulfilled in God** [(v13)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
-## Completion: God-Fulfilled Hope
 until we all reach **unity** <br/>
 in **the faith** <br/>
 and in **the knowledge** of the Son of God
@@ -239,7 +251,10 @@ and become **mature**, <br/>
 attaining to the whole measure <br/>
 of the **fullness** of Christ.
 
+[Ephesians 4:13 (NIV)](# "ref")
+
 >>>
++ Completion: God-Fulfilled Hope
 + **source** of unity:
   + the **faith** (trust in promises)
   + the (epi-) **knowledge**
@@ -249,6 +264,8 @@ of the **fullness** of Christ.
 unity in **the faith** <br/>
 and in **the knowledge** of the Son of God
 
+[Ephesians 4:13 (NIV)](# "ref")
+
 >>>
 + JJ **worry** about house fire
 + we have **lived** through it
@@ -257,12 +274,13 @@ and in **the knowledge** of the Son of God
 
 ---
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
-## 2 Corinthians 1:20 (NIV)
 For no matter how many **promises** God has made, <br/>
 they are “**Yes**” in Christ.
 
 And so through him the “**Amen**” <br/>
 is spoken by us to the **glory of God**.
+
+[2 Corinthians 1:20 (NIV)](# "ref")
 
 >>>
 + God has **not promised** no fire/loss/pain
@@ -273,8 +291,7 @@ is spoken by us to the **glory of God**.
 # What does an **ideal** church look like?
 
 ---
-<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
-## Ephesians 4:11-13 (NIV)
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 So Christ himself gave the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors and teachers**,
 
@@ -286,17 +303,19 @@ and in the **knowledge** of the Son of God <br/>
 and become **mature**, attaining to <br/>
 the whole measure of the **fullness** of Christ.
 
+[Ephesians 4:11-13 (NIV)](# "ref")
+
 >>>
 1. **Commission**: roles given by God
 2. **Preparation**: works empowered by God
 3. **Completion**: hope fulfilled in God
 
 ---
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
-## Ephesians 4
-1. *One Calling* [(v1-3)](# ref")
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
+## Choose His Kingdom, Journey Together
+1. One *Calling* [(v1-3)](# ref")
 2. **One Body** [(v11-13)](# ref")
-3. *One Faith* [(v14-16)](# ref")
+3. One *Faith* [(v14-16)](# ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="empty" -->
