@@ -275,6 +275,29 @@ of the **fullness** of Christ.
   + the (epi-) **knowledge**
 
 ---
+Let us **draw near** with a true heart <br>
+in full **assurance** of faith, 
+
+with our hearts sprinkled **clean** <br>
+from an evil conscience <br>
+and our bodies **washed** with pure water.
+
+[23](# "ref")
+Let us **hold fast** the confession of our hope <br>
+without wavering, <br>
+for he who **promised** is faithful
+
+[Hebrews 11:22-23 (ESV)](# "ref")
+
+>>>
++ God's **choice**, Christ's **obedience**
+  + washes is **clean**
++ gives us **assurance**
+  + confidence to **hold fast**
++ not **force** of our conviction
+  + but power of God's **faithfulness**
+
+---
 <!-- .slide: <%= bg("pixabay-253614-fire_cemetery.jpg") %> -->
 unity in **the faith** <br/>
 and in **the knowledge** of the Son of God
@@ -286,6 +309,7 @@ and in **the knowledge** of the Son of God
 + we have **lived** through it
 + **experiential trust** in God's promises
   + &Rarr; **maturity**
++ He who promised is faithful:
 
 ---
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
