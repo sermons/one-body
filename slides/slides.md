@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> id="title" -->
 # One **Body**
 ## (2) Ephesians 4:11-13
 ### Choose His *Kingdom*, <br> Journey *Together*
@@ -15,8 +15,7 @@
 # How should a **healthy** church **grow**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
-## Ephesians 4:11-13 (NIV)
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 So Christ himself gave the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors** and **teachers**,
 
@@ -28,8 +27,10 @@ and in the **knowledge** of the Son of God <br/>
 and become **mature**, attaining to <br/>
 the whole measure of the **fullness** of Christ.
 
+[Ephesians 4:11-13 (NIV)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
 ## Eph4:11-13 One Body
 1. **Commission**: *roles* given by God [(v11)](# "ref")
 2. **Preparation**: *works* empowered by God [(v12)](# "ref")
@@ -138,7 +139,7 @@ Now eagerly desire the **greater gifts**.
 + 2Cor13:10 authority for building up, not tearing down
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
 ## Eph4:11-13 One Body
 1. *Commission*: roles given by God [(v11)](# "ref")
 2. **Preparation: works empowered by God** [(v12)](# "ref")
@@ -218,7 +219,7 @@ that person will certainly not lose their **reward**.”
 # How can I **equip**, **serve**, or **build up** the body of Christ?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
 ## Eph4:11-13 One Body
 1. *Commission*: roles given by God [(v11)](# "ref")
 2. *Preparation*: works empowered by God [(v12)](# "ref")
@@ -269,8 +270,7 @@ is spoken by us to the **glory of God**.
 # What does an **ideal** church look like?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
-## Ephesians 4:11-13 (NIV)
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 So Christ himself gave the **apostles**, the **prophets**, <br/>
 the **evangelists**, the **pastors and teachers**,
 
@@ -281,6 +281,8 @@ until we all reach **unity in the faith** <br/>
 and in the **knowledge** of the Son of God <br/>
 and become **mature**, attaining to <br/>
 the whole measure of the **fullness** of Christ.
+
+[Ephesians 4:11-13 (NIV)](# "ref")
 
 >>>
 1. **Commission**: roles given by God
@@ -295,4 +297,4 @@ the whole measure of the **fullness** of Christ.
 3. One *Faith* [(v14-16)](# ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="empty" -->
