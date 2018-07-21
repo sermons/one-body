@@ -5,7 +5,7 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## Choose His Kingdom, Journeying Together
+## Choose His Kingdom, Journey Together
 1. One *Calling* [(v1-3)](# ref")
 2. **One Body** [(v11-13)](# ref")
 3. One *Faith* [(v14-16)](# ref")
@@ -31,9 +31,9 @@ the whole measure of the **fullness** of Christ.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Eph4:11-13 One Body
-1. **Commission**: *roles* given by God <span class="hl2">(v11)</span>
-2. **Preparation**: *works* empowered by God <span class="hl2">(v12)</span>
-3. **Completion**: *hope* fulfilled in God <span class="hl2">(v13)</span>
+1. **Commission**: *roles* given by God [(v11)](# "ref")
+2. **Preparation**: *works* empowered by God [(v12)](# "ref")
+3. **Completion**: *hope* fulfilled in God [(v13)](# "ref")
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
@@ -140,9 +140,9 @@ Now eagerly desire the **greater gifts**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Eph4:11-13 One Body
-1. *Commission*: roles given by God <span class="hl2">(v11)</span>
-2. **Preparation: works empowered by God** <span class="hl2">(v12)</span>
-3. *Completion*: hope fulfilled in God <span class="hl2">(v13)</span>
+1. *Commission*: roles given by God [(v11)](# "ref")
+2. **Preparation: works empowered by God** [(v12)](# "ref")
+3. *Completion*: hope fulfilled in God [(v13)](# "ref")
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VNjNtdu0yCw-kids_hug.jpg" -->
@@ -220,9 +220,9 @@ that person will certainly not lose their **reward**.”
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 ## Eph4:11-13 One Body
-1. *Commission*: roles given by God <span class="hl2">(v11)</span>
-2. *Preparation*: works empowered by God <span class="hl2">(v12)</span>
-3. **Completion: hope fulfilled in God** <span class="hl2">(v13)</span>
+1. *Commission*: roles given by God [(v11)](# "ref")
+2. *Preparation*: works empowered by God [(v12)](# "ref")
+3. **Completion: hope fulfilled in God** [(v13)](# "ref")
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
@@ -289,7 +289,7 @@ the whole measure of the **fullness** of Christ.
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## Choose His Kingdom, Journeying Together
+## Choose His Kingdom, Journey Together
 1. One *Calling* [(v1-3)](# ref")
 2. **One Body** [(v11-13)](# ref")
 3. One *Faith* [(v14-16)](# ref")
