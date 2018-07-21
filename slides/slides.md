@@ -1,17 +1,14 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
-# One Body
-## Ephesians 4:11-13
-### Part 2 of 3
-
->>>
-[one-body](http://one-body.seanho.com/)
+<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> id="title" -->
+# One **Body**
+## (2) Ephesians 4:11-13
+### Choose His *Kingdom*, <br> Journey *Together*
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Ephesians 4
-1. *One Calling* [(v1-3)](# ref")
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
+## Choose His Kingdom, Journeying Together
+1. One *Calling* [(v1-3)](# ref")
 2. **One Body** [(v11-13)](# ref")
-3. *One Faith* [(v14-16)](# ref")
+3. One *Faith* [(v14-16)](# ref")
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -291,11 +288,11 @@ the whole measure of the **fullness** of Christ.
 3. **Completion**: hope fulfilled in God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Ephesians 4
-1. *One Calling* [(v1-3)](# ref")
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
+## Choose His Kingdom, Journeying Together
+1. One *Calling* [(v1-3)](# ref")
 2. **One Body** [(v11-13)](# ref")
-3. *One Faith* [(v14-16)](# ref")
+3. One *Faith* [(v14-16)](# ref")
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" class="empty" -->
