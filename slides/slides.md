@@ -1,45 +1,19 @@
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> id="title" -->
-# One **Body**
-## (2) Ephesians 4:11-13
-### Choose His *Kingdom*, <br> Journey *Together*
-
----
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## Choose His Kingdom, Journey Together
-1. One *Calling* [(v1-3)](# ref")
-2. **One Body** [(v11-13)](# ref")
-3. One *Faith* [(v14-16)](# ref")
+# One Body
+## Ephesians 4:11-13
 
 ---
 <!-- .slide: data-background="white" -->
-# How should a **healthy** church **grow**?
+# How should <br/> a **healthy** church <br/> **grow**?
 
 ---
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
-[11](# "ref")
-So Christ himself gave <br>
-the **apostles**, the **prophets**, <br/>
-the **evangelists**, the **pastors** and **teachers**,
-
-[12](# "ref")
-to equip his people for **works of service**, <br/>
-so that the body of Christ may be **built up**
-
-[Ephesians 4:11-12 (NIV) (p.1/2)](# "ref")
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
+1. One *Calling* [(v1-3)](# "ref")
+2. **One Body** [(v11-13)](# "ref")
+3. One *Faith* [(v14-16)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
-[13](# "ref")
-until we all reach **unity in the faith** <br/>
-and in the **knowledge** of the Son of God
-
-and become **mature**, attaining to <br/>
-the whole measure of the **fullness** of Christ.
-
-[Ephesians 4:13 (NIV) (p.2/2)](# "ref")
-
----
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" id="outline" -->
 ## One Body [(Eph4)](# "ref")
 1. **Commission**: *roles* given by God [(v11)](# "ref")
 2. **Preparation**: *works* <br> empowered by God [(v12)](# "ref")
@@ -349,13 +323,6 @@ the whole measure of the **fullness** of Christ.
 1. **Commission**: roles given by God
 2. **Preparation**: works empowered by God
 3. **Completion**: hope fulfilled in God
-
----
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## Choose His Kingdom, Journey Together
-1. One *Calling* [(v1-3)](# ref")
-2. **One Body** [(v11-13)](# ref")
-3. One *Faith* [(v14-16)](# ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="empty" -->
