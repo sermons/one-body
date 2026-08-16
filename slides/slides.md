@@ -256,7 +256,6 @@ with our hearts sprinkled **clean** <br>
 from an evil conscience <br>
 and our bodies **washed** with pure water.
 
-[23](# "ref")
 Let us **hold fast** the confession of our hope <br>
 without wavering, <br>
 for he who **promised** is faithful
@@ -312,12 +311,16 @@ the **evangelists**, the **pastors and teachers**,
 to equip his people for **works of service**, <br/>
 so that the body of Christ may be **built up**
 
+[Ephesians 4:11-13 (NIV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 until we all reach **unity in the faith** <br/>
 and in the **knowledge** of the Son of God <br/>
 and become **mature**, attaining to <br/>
 the whole measure of the **fullness** of Christ.
 
-[Ephesians 4:11-13 (NIV)](# "ref")
+[Ephesians 4:11-13 (NIV) (p.2/2)](# "ref")
 
 >>>
 1. **Commission**: roles given by God
